@@ -1,0 +1,35 @@
+
+/*h2{*/
+/*    color: #120124;*/
+/*    text-align: center;*/
+/*}*/
+/*th,td{*/
+/*    text-align: left;*/
+/*    border: 1px solid black;*/
+/*    padding: 10px;*/
+/*}*/
+/*table{*/
+/*    border-collapse: collapse;*/
+/*    width: 80%;*/
+/*}*/
+
+/*lists css*/
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: green;
+    padding:0px;
+}
+li{
+    float: left;
+    color: white;
+}
+li a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+li a:hover{
+    background-color: black;
+}
